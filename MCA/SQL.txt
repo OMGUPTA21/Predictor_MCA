@@ -1,0 +1,8 @@
+
+/* INSERT QUERY NO: 2 */
+INSERT INTO collage(College, Branch, ORank, CRank)
+VALUES
+(
+'Institute of Science and Technology, Paschim Medinipur', 'MCA',1601, 4430
+);
+
