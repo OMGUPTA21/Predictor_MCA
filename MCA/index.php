@@ -231,7 +231,7 @@ input[type=submit]:hover {
     </div>
     <div class="row">
       <div class="col-25">
-         <label for="rank" style="font-family: 'Sansita Swashed', cursive; color:aqua"><div class="a">Stream</div></label>
+         <label for="rank" style="font-family: 'Sansita Swashed', cursive; color:aqua"><div class="a">Department/div></label>
        </div>
       <div class="col-75">
       <select name="branch"  required>
