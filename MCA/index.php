@@ -260,7 +260,7 @@ input[type=submit]:hover {
       <select name="institute"  required>
       <option value="Select">Select</option>
       <option value="Goverment">Goverment</option>
-      <option value="Private">Private</option>
+      <option value="Private">Self-Financed</option>
       </select>
 
       </div>
