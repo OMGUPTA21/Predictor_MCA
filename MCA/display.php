@@ -3,9 +3,9 @@
 
 session_start();
 
-$username = "root";
-$password = "";
-$database = "collage";
+$username = "<your user name>";
+$password = "<PASSWORD>";
+$database = "<your database name";
 $mysqli = new mysqli("localhost", $username, $password, $database);
 
 if ($mysqli->connect_error) {
