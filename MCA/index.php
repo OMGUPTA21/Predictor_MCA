@@ -149,7 +149,7 @@ input[type=submit]:hover {
     <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
     <meta name="viewport" content="width=device-width" />
     
-    <title>MCA WEST BENGAL COLLAGE PREDICTOR</title>
+    <title>MCA COLLAGE PREDICTOR-WB</title>
     
     <link href="css/bootstrap.css" rel="stylesheet" />
 	<link href="css/coming-sssoon.css" rel="stylesheet" />    
@@ -246,7 +246,7 @@ input[type=submit]:hover {
          <label for="rank" style="font-family: 'Sansita Swashed', cursive; color:aqua"><div class="a">Jeca GMR Rank</div></label>
        </div>
       <div class="col-75">
-  <input type="number" id="rank" name="rank" placeholder="XXXX"  required>
+  <input type="number" id="rank" name="rank" placeholder="0001"  required>
 
       </div>
     </div>
