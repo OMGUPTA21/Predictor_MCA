@@ -1,3 +1,3 @@
 
 # Predictor_MCA
-![Screenshot 2023-08-06 161208](https://github.com/OMGUPTA21/Predictor_MCA/assets/73100677/646c285c-2ba2-4d97-9039-194751336c9a)
+![Capture](https://github.com/OMGUPTA21/Predictor_MCA/assets/73100677/4286dd5c-999b-4146-bab0-d6ddc49b0dde)
